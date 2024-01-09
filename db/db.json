@@ -1,0 +1,15 @@
+{
+    "posts":[
+      {  
+        "id":1,
+        "title":"second post",
+        "body":"lorem ipsum"
+    },
+    {
+        "id":2,
+        "title":"hello world99 man",
+        "body":"david okeke"
+
+    }
+    ]
+}
